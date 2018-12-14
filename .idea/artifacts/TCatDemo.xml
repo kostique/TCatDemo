@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TCatDemo">
+    <output-path>$PROJECT_DIR$/out/artifacts/TCatDemo</output-path>
+    <root id="archive" name="TCatDemo.war">
+      <element id="javaee-facet-resources" facet="TCatDemo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TCatDemo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
